@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinicios Wilson - Parque Barigui</title>
+    <link rel="icon" type="image/png" href="donwload.png">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #f8f9fa;
+            padding: 10px 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Parque Barigui</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Bem-vindo ao Parque Barigui!</h2>
+            <p>O Parque Barigui é o maior parque da cidade de Curitiba, oferecendo uma variedade de atividades ao ar livre para todas as idades.</p>
+            <img src="imagem-parque-barigui.jpg" alt="Parque Barigui">
+        </section>
+        <section>
+            <h2>Atividades no Parque</h2>
+            <p>No Parque Barigui, você pode desfrutar de trilhas para caminhada, corrida e ciclismo, áreas para piquenique, quadras esportivas e muito mais.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Vinicios Wilson. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
